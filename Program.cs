@@ -21,3 +21,4 @@ class Program
         Console.WriteLine($"Результат: {a} + {b} = {sum}");
     }
 }
+Console.WriteLine("Feature branch");
